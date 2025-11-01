@@ -1,6 +1,6 @@
 # Auto CV Scoring Engine
 
-This repository contains an automated CV scoring engine designed to evaluate and score resumes based on various criteria. The engine utilizes machine learning algorithms to analyze the content and structure of CVs, providing recruiters with a quick and efficient way to assess candidates.
+This repository contains an automated CV scoring engine designed to evaluate and score resumes based on various criteria.
 
 ## Features
 
