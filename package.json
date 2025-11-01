@@ -1,0 +1,20 @@
+{
+  "name": "cv-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^11.0.3",
+    "json2csv": "^6.0.0-alpha.2",
+    "mammoth": "^1.11.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.7.0",
+    "pdf-parse": "^2.4.5"
+  }
+}

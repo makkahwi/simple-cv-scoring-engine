@@ -1,0 +1,36 @@
+Job Title: Full-Stack Web Developer (JavaScript, NestJS, React, Laravel)
+
+Location: On-site (8 hours/day)
+Salary: 5,000 – 7,000 SAR / month
+Employment Type: Full-time
+
+⸻
+
+Job Summary
+
+We are looking for a talented and motivated Full-Stack Web Developer to join our development team. The ideal candidate has solid hands-on experience with JavaScript, NestJS, React, and Laravel, and can build, optimize, and maintain scalable web applications across both front-end and back-end environments.
+
+⸻
+
+Responsibilities
+	•	Develop, test, and maintain high-quality web applications using React, NestJS, and Laravel.
+	•	Design, implement, and optimize RESTful APIs and backend services.
+	•	Manage and structure PostgreSQL and MySQL databases efficiently.
+	•	Collaborate with UI/UX designers to translate designs into functional, responsive interfaces.
+	•	Manage application versions and workflows using GitHub.
+	•	Containerize applications and manage environments using Docker.
+	•	Troubleshoot and debug issues across the full stack.
+	•	Maintain clear documentation and follow best coding practices.
+	•	Work collaboratively with cross-functional teams to meet project goals on time.
+
+⸻
+
+Requirements
+	•	Proven experience as a Full-Stack Developer or similar role.
+	•	Strong proficiency in JavaScript, NestJS, React, and Laravel.
+	•	Good understanding of relational databases (PostgreSQL, MySQL).
+	•	Experience using GitHub for version control and team collaboration.
+	•	Familiarity with Docker and containerized deployment.
+	•	Solid understanding of API design, authentication, and security principles.
+	•	Ability to write clean, maintainable, and efficient code.
+	•	Strong problem-solving and communication skills.
