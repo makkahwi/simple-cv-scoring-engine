@@ -1,0 +1,104 @@
+{
+  "role": "Full-Stack JS Developer",
+  "mustSkills": [
+    {
+      "name": "TypeScript",
+      "alternatives": [
+        "JavaScript"
+      ],
+      "weight": 10
+    },
+    {
+      "name": "React",
+      "alternatives": [
+        "Next.js",
+        "Vue",
+        "Angular"
+      ],
+      "weight": 10
+    },
+    {
+      "name": "NestJS",
+      "alternatives": [
+        "Express",
+        "Node.js"
+      ],
+      "weight": 10
+    },
+    {
+      "name": "Laravel",
+      "alternatives": [
+        "PHP"
+      ],
+      "weight": 7
+    }
+  ],
+  "niceSkills": [
+    {
+      "name": "Docker",
+      "alternatives": [],
+      "weight": 3
+    },
+    {
+      "name": "PostgreSQL",
+      "alternatives": [
+        "MySQL"
+      ],
+      "weight": 3
+    },
+    {
+      "name": "CI/CD",
+      "alternatives": [
+        "GitHub Actions",
+        "GitLab CI"
+      ],
+      "weight": 2
+    }
+  ],
+  "experience": {
+    "weightsByType": {
+      "fulltime": 1.0,
+      "parttime": 0.7,
+      "freelance": 0.6,
+      "contract": 0.6,
+      "internship": 0.5,
+      "unspecified": 1.0
+    },
+    "minYears": 3,
+    "weight": 10,
+    "presentWords": [
+      "present",
+      "current",
+      "now"
+    ]
+  },
+  "location": {
+    "requiredAny": [
+      "Saudi Arabia",
+      "KSA",
+      "Riyadh"
+    ],
+    "weight": 6,
+    "countMonthsInRequired": true
+  },
+  "languages": {
+    "mustAny": [
+      [
+        "Arabic"
+      ]
+    ],
+    "weight": 4
+  },
+  "links": {
+    "collect": [
+      "linkedin",
+      "github",
+      "portfolio",
+      "website"
+    ]
+  },
+  "llmBoost": {
+    "enabledEnvVar": "",
+    "weight": 0
+  }
+}
