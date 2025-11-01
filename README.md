@@ -14,8 +14,14 @@ This repository contains an automated CV scoring engine designed to evaluate and
 - Clone the repository and install dependencies:
 
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/makkahwi/simple-cv-scoring-engine
+  ```
+
+  ```bash
   cd cv-engine
+  ```
+
+  ```bash
   npm install
   ```
 
